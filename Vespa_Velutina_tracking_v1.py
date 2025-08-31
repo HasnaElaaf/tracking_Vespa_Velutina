@@ -107,8 +107,8 @@ def open_video_writer(width, height, fps):
 
 # ---------- Config ----------
 VIDEO_PATH = "/home/helglalef/Downloads/vlc-record-2025-08-14-13h57m34s-video_12_1.mp4-.avi"
-MODEL_PATH = "/home/helglalef/Desktop/vespcv/version8/best.pt"
-MODEL_ONNX = "/home/helglalef/Desktop/vespcv/version8/best.onnx"
+MODEL_PATH = "/home/helglalef/Desktop/vespcv/version11/best.pt"
+MODEL_ONNX = "/home/helglalef/Desktop/vespcv/version11/best.onnx"
 
 CLASS_NAME = "Vespa_velutina"
 CONFIDENCE_THRESHOLD = 0.5
